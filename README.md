@@ -1,4 +1,4 @@
-# musicmint
+# musicmint market
 
 ## Blockchain Tutorials
 https://www.youtube.com/watch?v=YRkf0v3aF7s&t=1s
